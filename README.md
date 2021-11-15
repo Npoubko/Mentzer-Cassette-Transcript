@@ -1,6 +1,6 @@
 # Mentzer Cassette Transcript
 
-Published on Mike Mentzer's 70th birthday: November 15th, 2021.
+### Published on Mike Mentzer's 70th birthday: November 15th, 2021.
 
 A text (PDF) translation of Mike's cassette series, titled Mike Mentzer's New Advanced High-Intensity Training Program, published around the year 2000. I used the Google speech-to-text API to generate it, then edited it myself. Google was about 90% accurate. 
 
