@@ -10,5 +10,8 @@ Click the file titled [mikementzer_cassette_program_transcript.pdf](https://gith
 ### How to Listen
 The original recordings can be found [here](https://www.youtube.com/watch?v=qEKU9S8qtRs&list=PLyOqszF_xxT7_NPnzR-2vXGJisU4hljl8) or [here](https://www.youtube.com/watch?v=le3hznjGgHY&list=PLAtI3sbogP60FgemI9LrDBpZIhYVat9WU).
 
+### Mentzer's Seminar
+Go [here](https://github.com/Npoubko/Mentzer-Seminar-Transcript) for a PDF transcription of Mike's 1998 bodybuilding seminar.
+
 # TODO
 Publish on the Internet Archive as well.
